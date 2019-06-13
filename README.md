@@ -1,5 +1,5 @@
 # Eye In The Sky
-Satellite Image Segmentaion, Inter-IIT Techmeet 2018, IIT Bombay.
+Satellite Image Segmentation, Inter-IIT Techmeet 2018, IIT Bombay.
 
 This is code for the "Eye in The Sky" competetion in the 7th Inter-IIT Techmeet 2018 held at IIT Bombay from 18 Dec-20 Dec.
 The problem was satellite image segmentaion challenge. 
