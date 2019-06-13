@@ -9,7 +9,7 @@ Our whole project was done on google colaboratory, and as of now we haven't chan
 # Info
 This repository contains the implementation of U-Net: Convolutional Networks for Biomedical Image Segmentation modified for the problem of satellite image classification.
 
-Decent accuracy was achieved considering the small dataset, however.The dataset included 14 high resolution images with 7 labelled classes (labelled image was given separately).
+Decent accuracy was achieved considering the small dataset, the dataset included 14 high resolution images with 7 labelled classes (labelled image was given separately).
 
 #Format of Code
 
